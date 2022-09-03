@@ -1,0 +1,10 @@
+Datos generales de la app
+porcentaje de ganancia
+
+Datos a guardar para cada producto: 
+
+codigo de barras
+nombre del producto
+precio del producto
+marca del prodcuto (map de marcas, id y nombre)
+categoria (map de , id y nombre)
